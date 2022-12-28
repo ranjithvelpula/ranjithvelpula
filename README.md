@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranjithvelpula
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning AWS
+- 🌱 I have knowledge on Python, Html, SQL
 - 💞️ I’m looking to collaborate with any leading company
 - 📫 How to reach me mail id:ranjith.velpula29@gmail.com
 
